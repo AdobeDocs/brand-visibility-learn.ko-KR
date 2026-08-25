@@ -1,14 +1,14 @@
 ---
-user-guide-title: 새 템플릿 안내서
-user-guide-description: 여기에 새 안내서에 대한 설명을 추가하십시오.
-source-git-commit: b4c7e81269675ba5072477986b4a11e1e31c33bb
+user-guide-title: 브랜드 가시성 자습서
+user-guide-description: 브랜드 가시성 자습서
+source-git-commit: f7262325ce9f76ff99dbcb6e3e0519d2f2aaeaa5
 workflow-type: tm+mt
-source-wordcount: '14'
-ht-degree: 7%
+source-wordcount: '10'
+ht-degree: 10%
 
 ---
 
 
-# 새 템플릿 안내서 {#tutorials}
+# 브랜드 가시성 자습서 {#tutorials}
 
 + [개요](overview.md)
