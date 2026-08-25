@@ -8,7 +8,7 @@ type: Tutorial
 description: 브랜드 가시성 설명서입니다.
 mini-toc-levels: 2
 feature-set: LLM Optimizer
-git-repo: https://github.com/AdobeDocs/brand-visibility-learn.en
+git-repo: https://github.com/AdobeDocs/brand-visibility-learn.ko-KR
 index: false
 recommendations: noDisplay
 source-git-commit: cdc21e442e32a366289e69e8de528451d563f054
