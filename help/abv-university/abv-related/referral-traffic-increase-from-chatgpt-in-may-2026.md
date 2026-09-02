@@ -34,4 +34,4 @@ Adobe 자료에 따르면 ChatGPT의 참조 트래픽이 약 60% 상승하고 �
 * ChatGPT가 다시 브랜드 채널만이 아닌 트래픽 채널이라는 의미입니다
 * URL 관리자의 새 참조 트래픽 기능으로 표시되는 모양
 
->[!VIDEO](https://video.tv.adobe.com/v/3502764/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502917/?captions=kor&learn=on){transcript=true}

@@ -34,4 +34,4 @@ ht-degree: 0%
 * 잘못된 타사 정보가 고객 경험을 저하시키는 방식
 * 주간 모니터링이 실용적인 케이던스이며 일별 사용 가능한 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3502742/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502818/?captions=kor&learn=on){transcript=true}

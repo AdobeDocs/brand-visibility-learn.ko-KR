@@ -33,4 +33,4 @@ ht-degree: 0%
 * 검색(RAG) 근거가 라이브 소스에서 답변하고 인용구를 생성하는 방법
 * 왜 발견의 통화는 클릭에서 인용으로, 그리고 인용을 얻는 다섯 가지 레버로 전환되고 있는가
 
->[!VIDEO](https://video.tv.adobe.com/v/3502723/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502890/?captions=kor&learn=on){transcript=true}

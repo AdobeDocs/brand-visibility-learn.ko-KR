@@ -34,4 +34,4 @@ ht-degree: 0%
 * 검색(RAG)이 실제 인용을 생성하는 방식
 * 인용이 귀하의 브랜드가 증거로 사용되었다는 더 강력한 신호인 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3502765/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502845/?captions=kor&learn=on){transcript=true}

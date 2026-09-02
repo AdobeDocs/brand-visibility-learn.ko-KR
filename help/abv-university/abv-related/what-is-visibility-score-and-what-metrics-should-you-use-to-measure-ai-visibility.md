@@ -34,4 +34,4 @@ ht-degree: 0%
 * 왜 스코어가 홀로 연기하기 힘든 노스 스타인가
 * 언급 및 인용에서 에이전트 및 참조 트래픽에 이르기까지 연결할 지표
 
->[!VIDEO](https://video.tv.adobe.com/v/3502740/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502908/?captions=kor&learn=on){transcript=true}

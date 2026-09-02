@@ -34,4 +34,4 @@ LLM은 하나의 프롬프트를 여러 개의 작은 쿼리로 전환하고 모
 * 왜 일관된 보도가 하나의 1등 순위를 이길 수 있는가
 * 심층적인 주제 컨텐츠와 강력한 SEO가 여전히 인용을 유도하는 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502827/?captions=kor&learn=on){transcript=true}

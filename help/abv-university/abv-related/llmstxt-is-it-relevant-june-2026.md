@@ -34,4 +34,4 @@ ht-degree: 0%
 * 현재 파일을 읽고 있는 Googlebot을 포함하여 최근 변경된 사항
 * 하나를 만드는 것이 왜 인용 보증이 아니라 저노력 보험인가
 
->[!VIDEO](https://video.tv.adobe.com/v/3502763/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502899/?captions=kor&learn=on){transcript=true}

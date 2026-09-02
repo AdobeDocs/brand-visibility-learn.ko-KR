@@ -34,4 +34,4 @@ ht-degree: 0%
 * 현재 에지 최적화가 검색 웹 크롤러가 아닌 AI 보트만 제공하는 방식
 * CDN에서 최적화를 몇 초 만에 롤백할 수 있는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502726/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502870/?captions=kor&learn=on){transcript=true}

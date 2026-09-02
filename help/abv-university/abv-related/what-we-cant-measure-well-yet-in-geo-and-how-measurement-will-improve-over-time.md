@@ -33,4 +33,4 @@ AI가 비결정적이고 지역, 최신성 및 개인화에 따라 이동하기 
 * 일반적인 단어인 브랜드 이름도 검색하기 어려운 이유
 * 측정이 계속 좋아지는 지속적인 개선인 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3502766/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502865/?captions=kor&learn=on){transcript=true}

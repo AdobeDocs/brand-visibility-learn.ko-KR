@@ -34,4 +34,4 @@ ht-degree: 0%
 * 웹 크롤러가 콘텐츠에 쉽게 액세스하고 이해할 수 있도록 하는 방법
 * Adobe Brand Visibility에서 정렬하기 위해 타사 인용구를 표시하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502733/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502854/?captions=kor&learn=on){transcript=true}

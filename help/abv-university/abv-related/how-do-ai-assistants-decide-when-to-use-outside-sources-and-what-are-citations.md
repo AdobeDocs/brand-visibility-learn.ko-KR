@@ -33,4 +33,4 @@ AI 도우미가 교육 데이터에서 응답하거나 라이브 소스를 먼�
 * 일부 인용이 환각이고 404를 초래할 수 있는 이유
 * 모델 생성 텍스트에서 실제 검색 소스를 구별하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502836/?captions=kor&learn=on){transcript=true}

@@ -34,4 +34,4 @@ ht-degree: 0%
 * 콘텐츠 가시성 단어 수는 AI가 실제로 보는 양을 보여 줍니다.
 * 특히 양식 및 상호 작용에 대해 에이전트가 명확한 페이지 구조가 필요한 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3502738/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502773/?captions=kor&learn=on){transcript=true}

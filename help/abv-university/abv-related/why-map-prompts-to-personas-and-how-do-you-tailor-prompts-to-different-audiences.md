@@ -34,4 +34,4 @@ ht-degree: 0%
 * 의사 결정자 또는 학생 등 담당자별로 주제를 클러스터링하는 방법
 * 전체 대상의 가시성을 평균화하는 것이 실제 상황을 숨기는 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502800/?captions=kor&learn=on){transcript=true}

@@ -34,4 +34,4 @@ ht-degree: 0%
 * 적용한 제안과 아직 열려 있는 제안을 검토할 위치
 * 언제든지 최적화를 롤백하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502721/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502732/?captions=kor&learn=on){transcript=true}

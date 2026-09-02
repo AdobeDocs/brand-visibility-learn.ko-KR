@@ -34,4 +34,4 @@ LLM 경험은 검색, 색인 지정 및 렌더링과 동일한 웹 인프라에 
 * 일관성 없는 표준, 페이월 및 로그인 벽이 AI 액세스를 제한하는 이유
 * 클라이언트측 렌더링이 콘텐츠를 숨기는 방법 및 복구 콘텐츠 가시성이 콘텐츠를 수정하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502927/?captions=kor&learn=on){transcript=true}

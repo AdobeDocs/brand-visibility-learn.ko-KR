@@ -34,4 +34,4 @@ ht-degree: 0%
 * 동일한 프롬프트가 사용자와 일수에 걸쳐 다른 톤을 반환할 수 있는 이유
 * Adobe Brand Visibility이 시간 경과에 따라, 그리고 프롬프트에 따라 감정을 추적하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502881/?captions=kor&learn=on){transcript=true}

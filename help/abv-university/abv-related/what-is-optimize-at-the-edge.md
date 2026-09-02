@@ -34,4 +34,4 @@ Optimize at the Edge은 CDN에 있고 사전에 렌더링된 페이지 버전을
 * 사전 렌더링된 HTML이 사용자가 아닌 AI 봇에만 제공되는 방식
 * 주입된 요약 및 목차가 봇이 페이지를 이해하는 데 어떻게 도움이 되는지
 
->[!VIDEO](https://video.tv.adobe.com/v/3502739/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502791/?captions=kor&learn=on){transcript=true}

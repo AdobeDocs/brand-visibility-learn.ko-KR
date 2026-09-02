@@ -34,4 +34,4 @@ ht-degree: 0%
 * 오프사이트로 푸시하기 전에 정확하고 일관된 자체 콘텐츠를 얻는 이유
 * 오프사이트 기회(인용된 감정, Wikipedia, Reddit, YouTube) 및 백링크 및 리뷰와 같은 클래식 레버가 권한을 구축하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502725/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502782/?captions=kor&learn=on){transcript=true}
