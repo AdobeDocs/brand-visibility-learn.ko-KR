@@ -19,4 +19,4 @@ ht-degree: 3%
 
 테스트 -
 
->[!VIDEO](https://video.tv.adobe.com/v/3502249/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502254/?captions=kor&quality=12&learn=on){transcript=true}
