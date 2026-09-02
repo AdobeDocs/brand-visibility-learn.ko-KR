@@ -1,7 +1,7 @@
 ---
 user-guide-title: 브랜드 가시성 자습서
 user-guide-description: 브랜드 가시성 자습서
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+source-git-commit: a58a18356740f85b2b520130bdef5cea6255120a
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -9,7 +9,7 @@ ht-degree: 0%
 ---
 
 
-# 브랜드 가시성 자습서 {#tutorials}
+# Brand Visibility 대학교 {#tutorials}
 
 + [개요](overview.md)
 + [Bing Webmaster Tools AI 성능 보고서](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
