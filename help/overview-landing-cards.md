@@ -1,17 +1,19 @@
 ---
-title: 'Brand Visibility 대학교: 랜딩 카드 테스트'
-description: 카드 스타일의 A/B 비교를 위해 랜딩 카드 컨테이너 구성 요소로 빌드된 대체 브랜드 가시성 대학 개요.
-source-git-commit: 2933c381dec09383007558ed3bb4784cfd217e2f
+title: 'Brand Visibility 대학: GEO 비디오 튜토리얼'
+description: Brand Visibility 대학의 실용적인 가치 동영상을 통해 AI 검색 및 LLM의 작동 방식과 AI 답변에서 브랜드 가시성 및 인용을 얻는 방법에 대해 알아봅니다.
+product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+source-git-commit: 813bbb1f29ef66a4396bf4adc0ff1f8072fa6df8
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 2%
+source-wordcount: 845
+ht-degree: 3%
 
 ---
 
 
-# Brand Visibility 대학(랜딩 카드 A/B 테스트)
+# Adobe Brand Visibility University
 
-생성된 HTML 카드와 비교하기 위해 `landing-cards-container` 구성 요소로 빌드된 개요의 대체 버전입니다. 주제별로 그룹화된 동일한 비디오입니다.
+AI 검색 및 대형 언어 모델의 작동 방식과 AI 답변에서 브랜드에 대한 가시성 및 인용을 얻는 방법을 설명하는 짧고 실용적인 가치 비디오로 점점 증가하는 라이브러리인 Adobe Brand Visibility University에 오신 것을 환영합니다. 아래 항목별로 찾아보십시오.
 
 ## 기초: AI 검색 작동 방식 {#foundations}
 
