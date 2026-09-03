@@ -1,9 +1,9 @@
 ---
 user-guide-title: 브랜드 가시성 자습서
 user-guide-description: 브랜드 가시성 자습서
-source-git-commit: f7dedef089456496058820b1597e5e5c1724daf1
+source-git-commit: 2933c381dec09383007558ed3bb4784cfd217e2f
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,7 @@ ht-degree: 0%
 # Brand Visibility 대학교 {#tutorials}
 
 + [개요](overview.md)
++ [개요(랜딩 카드 테스트)](overview-landing-cards.md)
 + [LLM 작동 방식: 마케터 안내서](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Bing Webmaster Tools AI 성능 보고서](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [전체 웹 사이트를 최적화해야 합니까?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
