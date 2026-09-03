@@ -3,8 +3,10 @@ title: '브랜드 가시성 대학교: 생성된 카드(디버그)'
 description: 생성된 HTML 카드 구성 요소로 빌드된 Brand Visibility 대학 개요의 디버그 사본은 카드 렌더링 문제를 조사하기 위해 유지됩니다.
 autotag-review: '2026-08-25T17:55:59.130Z'
 TQID: 'https://experienceleague.adobe.com/j891oRQoiZfSO5whAmV25aYxEnDDjOD4JyWSoistBkw'
-product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
-feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2:
+  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
 source-git-commit: 54dec47a0083c8958bc8c06471ac92ddbaa9394f
 workflow-type: tm+mt
 source-wordcount: 2343
