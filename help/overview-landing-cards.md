@@ -1,8 +1,10 @@
 ---
 title: 'Brand Visibility 대학: GEO 비디오 튜토리얼'
 description: Brand Visibility 대학의 실용적인 가치 동영상을 통해 AI 검색 및 LLM의 작동 방식과 AI 답변에서 브랜드 가시성 및 인용을 얻는 방법에 대해 알아봅니다.
-product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
-feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2:
+  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
 source-git-commit: 813bbb1f29ef66a4396bf4adc0ff1f8072fa6df8
 workflow-type: tm+mt
 source-wordcount: 845
