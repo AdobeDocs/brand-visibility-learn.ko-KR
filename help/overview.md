@@ -3,8 +3,10 @@ title: Adobe Brand Visibility University
 description: Adobe Brand Visibility University를 살펴보고 AI 검색 작동 방식과 AI 답변에서 브랜드 가시성 및 인용을 얻는 방법에 대한 짧은 실용적인 가치 비디오를 살펴보십시오.
 autotag-review: '2026-08-25T17:55:59.130Z'
 TQID: 'https://experienceleague.adobe.com/j891oRQoiZfSO5whAmV25aYxEnDDjOD4JyWSoistBkw'
-product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
-feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2:
+  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
 source-git-commit: 7f9b032dd93d0c288aa96b93d7077d03c216a71e
 workflow-type: tm+mt
 source-wordcount: 147
