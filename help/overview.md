@@ -1,21 +1,19 @@
 ---
-title: Adobe Brand Visibility University
-description: Adobe Brand Visibility University를 살펴보고 AI 검색 작동 방식과 AI 답변에서 브랜드 가시성 및 인용을 얻는 방법에 대한 짧은 실용적인 가치 비디오를 살펴보십시오.
+title: 'Brand Visibility 대학: GEO 비디오 튜토리얼'
+description: Brand Visibility 대학의 실용적인 가치 동영상을 통해 AI 검색 및 LLM의 작동 방식과 AI 답변에서 브랜드 가시성 및 인용을 얻는 방법에 대해 알아봅니다.
 autotag-review: '2026-08-25T17:55:59.130Z'
 TQID: 'https://experienceleague.adobe.com/j891oRQoiZfSO5whAmV25aYxEnDDjOD4JyWSoistBkw'
-product_v2:
-  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
-feature_v2:
-  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
-source-git-commit: 7f9b032dd93d0c288aa96b93d7077d03c216a71e
+product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+source-git-commit: cfcef805ff63c2b290999b01c21b1c6b3d6abe1a
 workflow-type: tm+mt
-source-wordcount: 147
-ht-degree: 3%
+source-wordcount: 153
+ht-degree: 2%
 
 ---
 
 
-# 개요
+# Adobe Brand Visibility University
 
 AI 검색 및 대형 언어 모델의 작동 방식과 AI 답변에서 브랜드에 대한 가시성 및 인용을 얻는 방법을 설명하는 짧고 실용적인 가치 비디오로 점점 증가하는 라이브러리인 Adobe Brand Visibility University에 오신 것을 환영합니다. 아래 항목별로 찾아보십시오.
 
