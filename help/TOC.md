@@ -1,7 +1,8 @@
 ---
 user-guide-title: 브랜드 가시성 자습서
 user-guide-description: 브랜드 가시성 자습서
-source-git-commit: a58a18356740f85b2b520130bdef5cea6255120a
+nudge: edit
+source-git-commit: 367cfb84279de24e826f8e0ad3bc07e5e4c45e58
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -12,10 +13,10 @@ ht-degree: 0%
 # Brand Visibility 대학교 {#tutorials}
 
 + [개요](overview.md)
++ [LLM 작동 방식: 마케터 안내서](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Bing Webmaster Tools AI 성능 보고서](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [전체 웹 사이트를 최적화해야 합니까?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
 + [신뢰할 수 있고 반복 가능한 GEO Insights에 대한 프롬프트 작성](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
-+ [LLM 작동 방식: 마케터 안내서](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [AI 브랜드 반응의 지역 차이를 모니터링하는 방법](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
 + [낮은 에이전트 트래픽 도메인에 대한 브랜드 권한 증가](abv-university/abv-related/increasing-brand-authority-for-low-agentic-traffic-domains.md)
 + [AI 친화적인 페이지 요약 추가가 닫히고 있습니까?](abv-university/abv-related/is-adding-ai-friendly-page-summaries-cloaking.md)
