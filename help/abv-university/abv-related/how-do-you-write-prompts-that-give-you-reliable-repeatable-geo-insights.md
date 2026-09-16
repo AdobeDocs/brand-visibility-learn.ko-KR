@@ -8,8 +8,8 @@ doc-type: Value Video
 duration: 161
 last-substantial-update: 2026-09-02
 jira: KT-22505
-nudge: edit1
-source-git-commit: 5642abb49edec6e5d5ff59199a5c669806689048
+nudge: edit2
+source-git-commit: e92826dfcba6e0269a5dd6557ac7690278829ba2
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -33,4 +33,4 @@ ht-degree: 0%
 * 프롬프트 및 해당 의도의 버전 로그를 유지하면 시간이 지남에 따라 개선되는 이유는 무엇입니까?
 * 고객 구성에서 프롬프트를 업로드하는 방법 및 빈번한 변경이 기록 점수에 영향을 줄 수 있는 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3502747/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
