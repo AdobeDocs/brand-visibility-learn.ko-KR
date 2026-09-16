@@ -6,15 +6,27 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 252
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22519
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+TQID: 'https://experienceleague.adobe.com/up91t0sjJ-Gna7UP76H5JSRosrFKeLnF-3HQZsLQ3j0'
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+feature_v2:
+  - id: c898dfb2-0885-42fb-b2af-b2d756752646
+    internal-label: Best practices
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
-
 ---
-
 # 대형 언어 모델 LLM은 응답에 포함할 인용구를 어떻게 결정합니까?
 
 LLM은 하나의 프롬프트를 여러 개의 작은 쿼리로 전환하고 모든 쿼리에서 최고의 성능을 발휘하는 소스를 인용합니다. 이 비디오에서는 브랜드의 인용을 얻기 위한 의미에 대해 설명합니다.
@@ -34,4 +46,4 @@ LLM은 하나의 프롬프트를 여러 개의 작은 쿼리로 전환하고 모
 * 왜 일관된 보도가 하나의 1등 순위를 이길 수 있는가
 * 심층적인 주제 컨텐츠와 강력한 SEO가 여전히 인용을 유도하는 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3502827/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}
