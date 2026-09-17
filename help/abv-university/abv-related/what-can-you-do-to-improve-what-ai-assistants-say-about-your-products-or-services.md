@@ -6,15 +6,30 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 118
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22511
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+TQID: 'https://experienceleague.adobe.com/hk3yfBS5b0boen5PYcsw7sc5i138T9I3GI8UTolRDn8'
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+feature_v2:
+  - id: ab7fdb62-bd53-4cfd-8c2c-169f7e47f20e
+    internal-label: Brand intelligence
+subfeature_v2:
+  - id: f718ad75-b1df-4dc1-89bf-0c3167e83b33
+    internal-label: Brand presence
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
-
 ---
-
 # AI 도우미가 제품이나 서비스에 대해 말하는 것을 개선하기 위해 무엇을 할 수 있습니까?
 
 선호하는 AI 답변을 결정하는 단일 설정은 없습니다. AI 답변을 구체화하는 가장 신뢰할 수 있는 방법은 자체 사이트부터 시작하여 AI가 의존하는 정보를 개선하는 것입니다.

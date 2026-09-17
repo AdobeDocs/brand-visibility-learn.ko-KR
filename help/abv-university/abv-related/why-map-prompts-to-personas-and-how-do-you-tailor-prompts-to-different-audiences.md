@@ -6,15 +6,27 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 148
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22526
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+TQID: 'https://experienceleague.adobe.com/SM1lH6ysl9JjrIRBPtlvSwjmt2U3TN1Zm2j9flTteVI'
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+feature_v2:
+  - id: c898dfb2-0885-42fb-b2af-b2d756752646
+    internal-label: Best practices
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
-
 ---
-
 # 프롬프트를 성향에 매핑하는 이유는 무엇이며, 프롬프트를 다양한 대상자에게 어떻게 맞춤화합니까?
 
 사용자 기반 프롬프트 매핑 그룹은 실제 사용자 유형별로 프롬프트를 표시합니다. 이 비디오는 대상에 맞게 프롬프트를 맞춤화하면 AI 답변에서 본인의 진정한 입지가 드러나는 이유를 보여 줍니다.
