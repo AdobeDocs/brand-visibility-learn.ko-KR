@@ -28,7 +28,7 @@ ht-degree: 3%
 AI 검색 및 대형 언어 모델의 작동 방식과 AI 답변에서 브랜드에 대한 가시성 및 인용을 얻는 방법을 설명하는 짧고 실용적인 가치 비디오로 점점 증가하는 라이브러리인 Adobe Brand Visibility University에 오신 것을 환영합니다. 아래 항목별로 찾아보십시오.
 
 >[!NOTE]
->전체 문서를 보려면 [Adobe Brand Visibility 문서](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home)를 참조하십시오.
+>전체 문서를 보려면 [Adobe Brand Visibility 문서](https://experienceleague.adobe.com/ko/docs/brand-visibility/using/home)를 참조하십시오.
 
 ## 기초: AI 검색 작동 방식 {#foundations}
 
