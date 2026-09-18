@@ -17,15 +17,18 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+source-git-commit: a4a90d98f663d4f9bebefc6687709280317583de
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '863'
 ht-degree: 3%
 ---
 
 # Adobe Brand Visibility University
 
 AI 검색 및 대형 언어 모델의 작동 방식과 AI 답변에서 브랜드에 대한 가시성 및 인용을 얻는 방법을 설명하는 짧고 실용적인 가치 비디오로 점점 증가하는 라이브러리인 Adobe Brand Visibility University에 오신 것을 환영합니다. 아래 항목별로 찾아보십시오.
+
+>[!NOTE]
+>전체 문서를 보려면 [Adobe Brand Visibility 문서](https://experienceleague.adobe.com/ko/docs/brand-visibility/using/home)를 참조하십시오.
 
 ## 기초: AI 검색 작동 방식 {#foundations}
 
