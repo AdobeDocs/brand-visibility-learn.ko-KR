@@ -6,9 +6,27 @@ role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Value Video
 duration: 321
-last-substantial-update: 2026-10-02
+last-substantial-update: 2026-10-02T00:00:00.000Z
 jira: KT-22749
-source-git-commit: 962fc1206da4f61ac41395aef6300bd68358c44d
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+feature_v2:
+  - id: e1b649f0-0a61-46e4-9082-64d5cb2576c6
+    internal-label: Opportunities
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -33,7 +51,7 @@ ht-degree: 0%
 * Opportunity Workspace 의 Before-and-After Report 를 찾는 위치
 * AI가 최적화된 페이지를 보는 동안 사람 방문자에게 변경 사항이 표시되지 않는 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3504052/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
 
 >[!NOTE]
 >엔진에 영향을 정확하게 측정할 수 있는 충분한 크기의 샘플이 오도록 최소 20개의 URL을 선택하십시오. 현재 복구 콘텐츠 가시성에 대한 영향 측정을 사용할 수 있으며 Edge에서 모든 최적화 기회로 확장하고 있습니다.

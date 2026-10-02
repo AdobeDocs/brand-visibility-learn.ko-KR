@@ -25,7 +25,10 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: 776712b686ae1f9c9ba3710dc7629233c559ae07
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -49,4 +52,4 @@ ht-degree: 0%
 * 프롬프트 및 해당 의도의 버전 로그를 유지하면 시간이 지남에 따라 개선되는 이유는 무엇입니까?
 * 고객 구성에서 프롬프트를 업로드하는 방법 및 빈번한 변경이 기록 점수에 영향을 줄 수 있는 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3502747/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}

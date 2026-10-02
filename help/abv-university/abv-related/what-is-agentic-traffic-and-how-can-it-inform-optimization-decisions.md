@@ -27,10 +27,13 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -54,4 +57,4 @@ ht-degree: 0%
 * 콘텐츠 가시성 단어 수는 AI가 실제로 보는 양을 보여 줍니다.
 * 특히 양식 및 상호 작용에 대해 에이전트가 명확한 페이지 구조가 필요한 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3502773/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502738/?learn=on){transcript=true}

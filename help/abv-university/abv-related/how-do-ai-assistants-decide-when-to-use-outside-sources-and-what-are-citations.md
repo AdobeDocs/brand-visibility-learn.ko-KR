@@ -21,7 +21,10 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -45,4 +48,4 @@ AI 도우미가 교육 데이터에서 응답하거나 라이브 소스를 먼�
 * 일부 인용이 환각이고 404를 초래할 수 있는 이유
 * 모델 생성 텍스트에서 실제 검색 소스를 구별하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502836/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}

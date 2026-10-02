@@ -25,7 +25,10 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -49,4 +52,4 @@ ht-degree: 0%
 * 웹 크롤러가 콘텐츠에 쉽게 액세스하고 이해할 수 있도록 하는 방법
 * Adobe Brand Visibility에서 정렬하기 위해 타사 인용구를 표시하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502854/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502733/?learn=on){transcript=true}

@@ -25,7 +25,10 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -49,4 +52,4 @@ Optimize at the Edge은 CDN에 있고 사전에 렌더링된 페이지 버전을
 * 사전 렌더링된 HTML이 사용자가 아닌 AI 봇에만 제공되는 방식
 * 주입된 요약 및 목차가 봇이 페이지를 이해하는 데 어떻게 도움이 되는지
 
->[!VIDEO](https://video.tv.adobe.com/v/3502791/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502739/?learn=on){transcript=true}
