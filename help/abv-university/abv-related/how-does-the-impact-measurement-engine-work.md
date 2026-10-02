@@ -51,7 +51,7 @@ ht-degree: 0%
 * Opportunity Workspace 의 Before-and-After Report 를 찾는 위치
 * AI가 최적화된 페이지를 보는 동안 사람 방문자에게 변경 사항이 표시되지 않는 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504052/?captions=kor&learn=on){transcript=true}
 
 >[!NOTE]
 >엔진에 영향을 정확하게 측정할 수 있는 충분한 크기의 샘플이 오도록 최소 20개의 URL을 선택하십시오. 현재 복구 콘텐츠 가시성에 대한 영향 측정을 사용할 수 있으며 Edge에서 모든 최적화 기회로 확장하고 있습니다.
