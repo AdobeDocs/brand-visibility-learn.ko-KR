@@ -1,13 +1,11 @@
 ---
 user-guide-title: 브랜드 가시성 자습서
 user-guide-description: 브랜드 가시성 자습서
-source-git-commit: 7f1a3c89f4fd4a1b79a81a9fd17da588b1b8f97d
+source-git-commit: 962fc1206da4f61ac41395aef6300bd68358c44d
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '193'
 ht-degree: 0%
-
 ---
-
 
 # Brand Visibility 대학교 {#tutorials}
 
@@ -27,6 +25,7 @@ ht-degree: 0%
   + [전체 웹 사이트를 최적화해야 합니까?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
   + [LLMs.txt가 관련됩니까?](abv-university/abv-related/llmstxt-is-it-relevant-june-2026.md)
 + 측정 및 가시성 {#measurement}
+  + [영향 측정 엔진 작동 방식](abv-university/abv-related/how-does-the-impact-measurement-engine-work.md)
   + [AI 가시성을 위한 가시성 점수 및 지표](abv-university/abv-related/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.md)
   + [에이전트 트래픽 및 최적화 결정](abv-university/abv-related/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions.md)
   + [아직 측정할 수 없는 지역 및 개선 방법](abv-university/abv-related/what-we-cant-measure-well-yet-in-geo-and-how-measurement-will-improve-over-time.md)
