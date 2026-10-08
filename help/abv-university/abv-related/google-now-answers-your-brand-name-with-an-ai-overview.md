@@ -32,4 +32,4 @@ ht-degree: 0%
 * 브랜드 AI 개요를 읽고 Google이 인용하는 소스를 확인하는 방법
 * 브랜드에 대한 AI 답변이 순위만큼 면밀히 살펴볼 가치가 있는 이유는 무엇입니까
 
->[!VIDEO](https://video.tv.adobe.com/v/3504213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504218/?captions=kor&learn=on){transcript=true}
