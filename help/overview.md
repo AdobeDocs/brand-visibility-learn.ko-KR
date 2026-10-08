@@ -17,10 +17,10 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: a4a90d98f663d4f9bebefc6687709280317583de
+source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
 workflow-type: tm+mt
-source-wordcount: '863'
-ht-degree: 3%
+source-wordcount: '944'
+ht-degree: 2%
 ---
 
 # Adobe Brand Visibility University
@@ -28,7 +28,23 @@ ht-degree: 3%
 AI 검색 및 대형 언어 모델의 작동 방식과 AI 답변에서 브랜드에 대한 가시성 및 인용을 얻는 방법을 설명하는 짧고 실용적인 가치 비디오로 점점 증가하는 라이브러리인 Adobe Brand Visibility University에 오신 것을 환영합니다. 아래 항목별로 찾아보십시오.
 
 >[!NOTE]
->전체 문서를 보려면 [Adobe Brand Visibility 문서](https://experienceleague.adobe.com/ko/docs/brand-visibility/using/home)를 참조하십시오.
+>전체 문서를 보려면 [Adobe Brand Visibility 문서](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home)를 참조하십시오.
+
+## 뉴스 및 인사이트 {#news-and-insights}
+
+AI 검색의 최신 변화와 브랜드의 의미입니다.
+
+::::landing-cards-container
+:::card
+![이제 Google이 AI 개요로 브랜드 이름에 응답합니다](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
+
+이제 Google이 AI 개요로 브랜드 이름에 답변합니다.
+
+Google의 AI 개요가 이제 어떻게 브랜드 이름 검색에 응답하고 검색 콘솔 및 AI에서 볼 수 있는 질문에 답변합니다.
+
+[시청하기](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
+:::
+::::
 
 ## 기초: AI 검색 작동 방식 {#foundations}
 
@@ -157,6 +173,15 @@ LLMs.txt 채택에 대한 거의 5,000개의 AEM 사이트 감사 및 이를 만
 AI가 나를 보고 인용할 수 있는지를 보여 주는 신호를 어떻게 측정해야 하는지, 어떻게 읽어야 하는지 알아본다.
 
 ::::landing-cards-container
+:::card
+![영향 측정 엔진 작동 방식](/help/assets/overview/how-does-the-impact-measurement-engine-work.png)
+
+영향 측정 엔진 작동 방식
+
+엔진이 최적화 전후의 AI 가시성을 측정하고 변경 사항을 정확하게 보고하는 방법입니다.
+
+[시청하기](abv-university/abv-related/how-does-the-impact-measurement-engine-work.md)
+:::
 :::card
 ![AI 가시성을 위한 가시성 점수 및 지표](/help/assets/overview/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.png)
 
