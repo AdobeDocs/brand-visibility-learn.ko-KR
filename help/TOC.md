@@ -1,15 +1,17 @@
 ---
 user-guide-title: 브랜드 가시성 자습서
 user-guide-description: 브랜드 가시성 자습서
-source-git-commit: 962fc1206da4f61ac41395aef6300bd68358c44d
+source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '204'
 ht-degree: 0%
 ---
 
 # Brand Visibility 대학교 {#tutorials}
 
 + [개요](overview.md)
++ 뉴스 및 인사이트 {#news-and-insights}
+  + [이제 Google이 AI 개요로 브랜드 이름에 답변합니다.](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + 기초: AI 검색 작동 방식 {#foundations}
   + [LLM 작동 방식: 마케터 안내서](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
   + [신뢰할 수 있고 반복 가능한 GEO Insights에 대한 프롬프트 작성](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
