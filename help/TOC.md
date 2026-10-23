@@ -1,9 +1,9 @@
 ---
 user-guide-title: 브랜드 가시성 자습서
 user-guide-description: 브랜드 가시성 자습서
-source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '216'
 ht-degree: 0%
 ---
 
@@ -11,6 +11,8 @@ ht-degree: 0%
 
 + [개요](overview.md)
 + 뉴스 및 인사이트 {#news-and-insights}
+  + [Google 기본 소스 설명](abv-university/abv-related/what-are-google-preferred-sources.md)
+  + [WebMCP 및 AI 에이전트가 사이트를 사용하는 방법](abv-university/abv-related/what-is-webmcp.md)
   + [이제 Google이 AI 개요로 브랜드 이름에 답변합니다.](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + 기초: AI 검색 작동 방식 {#foundations}
   + [LLM 작동 방식: 마케터 안내서](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
