@@ -32,4 +32,4 @@ ht-degree: 0%
 * 두 줄의 HTML 또는 간단한 링크 대체 기능을 사용하여 버튼을 추가하는 방법
 * Google 검색 콘솔에서 자격 조건을 확인하고 선택 사항을 추적하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3504832/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504838/?captions=kor&learn=on){transcript=true}

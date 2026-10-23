@@ -33,4 +33,4 @@ ht-degree: 0%
 * 읽기 전용 검색에서 높은 수준의 작업에 이르기까지 어디서부터 시작해야 합니까?
 * Adobe Sites Optimizer 및 Adobe Brand Visibility의 적합한 위치
 
->[!VIDEO](https://video.tv.adobe.com/v/3504833/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504847/?captions=kor&learn=on){transcript=true}
