@@ -26,9 +26,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: 08becc62321c4060fc65556ea31128610ad34338
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '227'
 ht-degree: 0%
 ---
 # 충격 측정 엔진은 어떻게 작동합니까?
@@ -51,7 +51,7 @@ ht-degree: 0%
 * Opportunity Workspace 의 Before-and-After Report 를 찾는 위치
 * AI가 최적화된 페이지를 보는 동안 사람 방문자에게 변경 사항이 표시되지 않는 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3504052/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
 
 >[!NOTE]
->엔진에 영향을 정확하게 측정할 수 있는 충분한 크기의 샘플이 오도록 최소 20개의 URL을 선택하십시오. 현재 복구 콘텐츠 가시성에 대한 영향 측정을 사용할 수 있으며 Edge에서 모든 최적화 기회로 확장하고 있습니다.
+>엔진에 영향을 정확하게 측정할 수 있는 충분한 크기의 샘플이 오도록 최소 20개의 URL을 선택하십시오. 현재 콘텐츠 가시성 복구, LLM 친화적 요약 추가, 목차 추가에 대한 영향 측정을 사용할 수 있으며 Edge 영업 기회에서 보다 최적화할 수 있도록 확장할 계획입니다.
