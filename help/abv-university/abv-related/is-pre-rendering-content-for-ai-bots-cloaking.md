@@ -30,7 +30,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -54,4 +54,4 @@ ht-degree: 0%
 * 콘텐츠를 읽기 쉽게 만드는 것이 조작이 아닌 이유
 * CDN 내에서 실행하는 것이 이 프로세스를 위험도가 낮은 자연스러운 프로세스로 만드는 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3502809/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502727/?learn=on){transcript=true}

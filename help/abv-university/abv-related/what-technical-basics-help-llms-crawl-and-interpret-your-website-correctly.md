@@ -30,12 +30,12 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 ---
-# LLMs 크롤링 웹 사이트를 올바르게 해석하는 데 도움이 되는 기술 기본 사항은 무엇입니까?
+# LLM이 웹 사이트를 올바로 해석하는 데 도움이 되는 기술 기본 사항은 무엇입니까?
 
 LLM 경험은 검색, 색인 지정 및 렌더링과 동일한 웹 인프라에 의존합니다. 이 비디오에서는 콘텐츠를 표시하고 사용할 수 있도록 하는 기술 기본 사항을 다룹니다.
 
@@ -54,4 +54,4 @@ LLM 경험은 검색, 색인 지정 및 렌더링과 동일한 웹 인프라에 
 * 일관성 없는 표준, 페이월 및 로그인 벽이 AI 액세스를 제한하는 이유
 * 클라이언트측 렌더링이 콘텐츠를 숨기는 방법 및 복구 콘텐츠 가시성이 콘텐츠를 수정하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502927/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}

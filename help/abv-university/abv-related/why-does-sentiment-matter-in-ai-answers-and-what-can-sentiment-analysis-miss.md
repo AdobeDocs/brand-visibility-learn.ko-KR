@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 ---
-# AI 답변에서 감정이 중요한 이유는 무엇이며 감정 분석에서 무엇을 놓칠 수 있습니까?
+# AI 답변에서 감정이 중요한 이유는 무엇이며 감정 분석이 무엇을 놓칠 수 있습니까?
 
 감정은 언어의 감정적 방향이며, AI가 답변하는 방식이 브랜드를 그려내는 방식입니다. 이 비디오에서는 이 기능이 중요한 이유와 감정 분석이 잘못된 위치를 설명합니다.
 
@@ -54,4 +54,4 @@ ht-degree: 0%
 * 동일한 프롬프트가 사용자와 일수에 걸쳐 다른 톤을 반환할 수 있는 이유
 * Adobe Brand Visibility이 시간 경과에 따라, 그리고 프롬프트에 따라 감정을 추적하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502881/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}

@@ -30,12 +30,12 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 ---
-# 전체 웹 사이트를 최적화해야 합니까?
+# 전체 웹사이트를 최적화해야 하나요?
 
 아니요. Adobe Brand Visibility(이전의 LLM Optimizer)를 사용하면 최적화할 페이지를 결정하고, 선택하지 않은 모든 페이지는 현재 상태로 정확하게 제공됩니다. 이 비디오에서는 페이지별 컨트롤의 작동 방식을 설명합니다.
 
@@ -54,4 +54,4 @@ ht-degree: 0%
 * 적용한 제안과 아직 열려 있는 제안을 검토할 위치
 * 언제든지 최적화를 롤백하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502732/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502721/?learn=on){transcript=true}

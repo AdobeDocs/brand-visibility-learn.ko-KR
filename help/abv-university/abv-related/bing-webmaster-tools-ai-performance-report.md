@@ -32,7 +32,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Bing 웹마스터 도구에 있는 Microsoft의 새로운 AI 성능 보고서가
 * 인용 데이터가 클릭수, 노출수 및 등급에 대한 기존 검색 성능 보고서와 다른 방식
 * GEO 전략에 이것이 중요한 이유 및 Adobe Brand Visibility을 보완하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502697/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502690/?learn=on){transcript=true}
 
 >[!NOTE]
 >AI 성과 보고서는 현재 Bing Copilot 및 AI 요약의 인용문만 다룹니다. 아직 ChatGPT와 같은 다른 AI 도우미가 포함되어 있지 않다.

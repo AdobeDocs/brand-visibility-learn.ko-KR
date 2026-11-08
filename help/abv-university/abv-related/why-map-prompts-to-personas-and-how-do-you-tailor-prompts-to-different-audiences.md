@@ -25,12 +25,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
-# 프롬프트를 성향에 매핑하는 이유는 무엇이며, 프롬프트를 다양한 대상자에게 어떻게 맞춤화합니까?
+# 프롬프트를 성향에 매핑하는 이유는 무엇이며, 프롬프트를 다양한 대상자에게 맞춤화하려면 어떻게 해야 합니까?
 
 사용자 기반 프롬프트 매핑 그룹은 실제 사용자 유형별로 프롬프트를 표시합니다. 이 비디오는 대상에 맞게 프롬프트를 맞춤화하면 AI 답변에서 본인의 진정한 입지가 드러나는 이유를 보여 줍니다.
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 * 의사 결정자 또는 학생 등 담당자별로 주제를 클러스터링하는 방법
 * 전체 대상의 가시성을 평균화하는 것이 실제 상황을 숨기는 이유
 
->[!VIDEO](https://video.tv.adobe.com/v/3502800/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}

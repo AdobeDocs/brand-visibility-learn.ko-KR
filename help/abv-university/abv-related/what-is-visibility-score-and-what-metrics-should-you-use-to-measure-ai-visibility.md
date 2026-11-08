@@ -35,7 +35,7 @@ topic_v2:
     internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -59,4 +59,4 @@ ht-degree: 0%
 * 왜 스코어가 홀로 연기하기 힘든 노스 스타인가
 * 언급 및 인용에서 에이전트 및 참조 트래픽에 이르기까지 연결할 지표
 
->[!VIDEO](https://video.tv.adobe.com/v/3502908/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502740/?learn=on){transcript=true}

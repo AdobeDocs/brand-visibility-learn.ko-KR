@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 ---
-# AI 도우미는 외부 소스 사용 시기 및 인용이란 무엇인지를 어떻게 결정합니까?
+# AI 도우미는 외부 소스를 사용할 시기와 인용 부호를 어떻게 결정합니까?
 
 AI 도우미가 교육 데이터에서 응답하거나 라이브 소스를 먼저 검색합니다. 이 비디오는 그들이 결정하는 방법, 인용이 실제로 무엇인지, 왜 일부가 진짜가 아닌지 보여준다.
 
@@ -48,4 +48,4 @@ AI 도우미가 교육 데이터에서 응답하거나 라이브 소스를 먼�
 * 일부 인용이 환각이고 404를 초래할 수 있는 이유
 * 모델 생성 텍스트에서 실제 검색 소스를 구별하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502836/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}
