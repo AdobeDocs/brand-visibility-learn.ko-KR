@@ -33,12 +33,12 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 ---
-# 에이전트 트래픽이란 무엇이며 최적화 결정을 알릴 수 있습니까?
+# 에이전트 트래픽이란 무엇이며 최적화 결정을 알리는 방법은 무엇입니까?
 
 에이전트 트래픽은 AI가 웹 사이트와 활발하게 상호 작용하는 것입니다. 이 비디오는 Adobe Brand Visibility에서 이를 모니터링하는 방법을 통해 AI가 액세스할 수 있는 내용과 수행할 위치가 표시됩니다.
 

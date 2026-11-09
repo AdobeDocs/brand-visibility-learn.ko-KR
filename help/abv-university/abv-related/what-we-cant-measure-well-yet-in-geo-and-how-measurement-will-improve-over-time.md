@@ -29,12 +29,12 @@ topic_v2:
     internal-label: Measurement
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 ---
-# GEO에서 아직 제대로 측정할 수 없는 것과 측정이 시간이 지남에 따라 어떻게 개선됩니까?
+# GEO에서 아직 제대로 측정할 수 없는 사항과 시간이 지남에 따라 측정이 어떻게 개선됩니까?
 
 AI가 비결정적이고 지역, 최신성 및 개인화에 따라 이동하기 때문에 지역 측정이 어렵습니다. 이 비디오에서는 현재 측정하기 어려운 사항과 개선 사항을 다룹니다.
 

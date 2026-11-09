@@ -31,12 +31,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 ---
-# 왜 AI 비서가 브랜드나 주제에 대해 무엇을 말하는지 정기적으로 모니터링해야 합니까?
+# AI 비서가 브랜드나 주제에 대해 말하는 것을 정기적으로 모니터링해야 하는 이유는 무엇입니까?
 
 모델이 업데이트되고 웹이 이동하면서 AI 답변이 빠르게 변화한다. 이 비디오에서는 AI가 브랜드를 묘사하는 방법에 대해 정기적인 모니터링이 품질 보증인 이유를 설명합니다.
 

@@ -28,12 +28,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 ---
-# AI 도우미가 제품이나 서비스에 대해 말하는 것을 개선하기 위해 무엇을 할 수 있습니까?
+# AI 어시스턴트가 제품이나 서비스에 대해 말하는 것을 개선하기 위해 무엇을 할 수 있는가?
 
 선호하는 AI 답변을 결정하는 단일 설정은 없습니다. AI 답변을 구체화하는 가장 신뢰할 수 있는 방법은 자체 사이트부터 시작하여 AI가 의존하는 정보를 개선하는 것입니다.
 
