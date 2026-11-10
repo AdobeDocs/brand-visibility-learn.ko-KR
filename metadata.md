@@ -8,7 +8,7 @@ usetq: true
 type: Tutorial
 description: 브랜드 가시성 설명서입니다.
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/brand-visibility-learn.en
+git-repo: https://github.com/AdobeDocs/brand-visibility-learn.ko-KR
 index: true
 recommendations: noDisplay
 source-git-commit: cd19a8362664052f6badd678ea8efc534f5456b6
