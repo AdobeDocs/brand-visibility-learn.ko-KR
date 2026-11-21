@@ -1,9 +1,9 @@
 ---
 user-guide-title: 브랜드 가시성 자습서
 user-guide-description: 브랜드 가시성 자습서
-source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
+source-git-commit: 3af4fa67a4f8c22a9f89abf1108a3eb28d6ef871
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 
@@ -41,3 +41,5 @@ ht-degree: 0%
   + [AI 브랜드 반응의 지역 차이를 모니터링하는 방법](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
   + [브랜드에 대한 AI 답변을 정기적으로 모니터링하는 이유](abv-university/abv-related/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic.md)
   + [AI 답변에 감정이 중요한 이유(및 제한 사항)](abv-university/abv-related/why-does-sentiment-matter-in-ai-answers-and-what-can-sentiment-analysis-miss.md)
++ 브랜드 가시성 실행 중 {#in-action}
+  + [콘텐츠 새로 고침 기회](abv-university/abv-related/content-freshness.md)
